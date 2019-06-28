@@ -7,6 +7,4 @@ Compare different algorithms on housing prices regression problem on the basis o
 4. Ridge Regression
 5. Lasso Regression
 6. Elastic Net
-7. Polynomial Features
-8. SVM
-9. Neural Network
+7. SVM
