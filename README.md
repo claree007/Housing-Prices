@@ -1,5 +1,5 @@
 # Housing-Prices
-Compare different algorithms on housing prices regression problem on the basis of accuracy and time taken to train
+Compare different algorithms on housing prices regression problem on the basis of cross validation score and time taken to train
 
 1. Normal Equation
 2. Batch Gradient Descent
